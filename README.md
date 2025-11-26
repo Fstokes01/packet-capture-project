@@ -6,7 +6,7 @@ To demonstrate basic cybersecurity and network analysis skills by capturing and 
 
 ## Tools Used
 - Wireshark
-- Virtual Machine (Ubuntu 22.04 on VMware/VirtualBox)
+- Virtual Machine (Kali Linux on VMware/VirtualBox)
 - Command Terminal (`sudo apt update && sudo apt upgrade -y`)
 
 ## Process
